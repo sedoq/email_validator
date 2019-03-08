@@ -27,9 +27,6 @@ class EmailService
     public function __construct (array $options)
     {
         $this->_options = $options;
-        if(!isset($this->_options[static::OPTIONS_EMAIL_KEY]) || empty($this->_options[static::OPTIONS_EMAIL_KEY])) {
-            throw new \Exception(Messages::get('MissingEmailAddress'));
-        }
         $this->_format = $this->getResponseFormat();
         if($this->_format == static::RESPONSE_FORMAT_JSON) {
             new EmailFactoryJSON($this->_options[static::OPTIONS_EMAIL_KEY]);
