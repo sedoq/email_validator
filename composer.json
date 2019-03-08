@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "img\\email_validator\\": "src/"
+            "img\\mail\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "img\\email_validator\\": "src/"
+            "img\\mail\\": "src/"
         }
     },
     "minimum-stability": "dev",

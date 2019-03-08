@@ -28,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/../email_validator/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="43">
-                <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="47" />
+              <first_editor relative-caret-position="393">
+                <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="30" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -37,11 +37,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://D:/tmp/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../email_validator/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="54" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="54" />
+            <state relative-caret-position="300">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../email_validator/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -99,16 +119,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="source.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../email_validator/message/source.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -142,7 +152,9 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/example/index.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="D:/tmp/index.php" />
         <option value="$PROJECT_DIR$/../email_validator/composer.json" />
+        <option value="$PROJECT_DIR$/../email_validator/.gitignore" />
       </list>
     </option>
   </component>
@@ -234,12 +246,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551965553782</updated>
-      <workItem from="1551965555182" duration="32599000" />
+      <workItem from="1551965555182" duration="33081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32599000" />
+    <option name="totallyTimeSpent" value="33081000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,18 +427,34 @@
     <entry file="file://$PROJECT_DIR$/../email_validator/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="43">
-            <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="47" />
+          <first_editor relative-caret-position="393">
+            <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="30" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/tmp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../email_validator/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="54" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="54" />
+        <state relative-caret-position="300">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../email_validator/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
         </state>
       </provider>
